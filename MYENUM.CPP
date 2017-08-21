@@ -1,3 +1,8 @@
+/*
+	enum is a set of fixed named constant. These constants are by default static and final. The advantange of enum is 
+	it improves type safety.
+*/
+
 #include<constream.h>
 
 	enum Days {SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY };
